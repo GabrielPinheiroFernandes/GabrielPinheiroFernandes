@@ -5,9 +5,7 @@
 - **Júnior em Go, Laravel, Node.js, React e React Native**  
 - **Pleno em Pascal**  
 
-📂 Aqui no GitHub, compartilho projetos pessoais e experimentos, sempre explorando novas tecnologias e desafios.  
-
-🚀 Estou constantemente aprimorando minhas habilidades e buscando boas práticas para escrever código limpo e performático. Vamos construir algo incrível juntos? 😃  
+📂 Aqui no GitHub, compartilho projetos pessoais e experimentos, sempre explorando novas tecnologias e desafios.    
 
 
 ## 🌐 Socials:
